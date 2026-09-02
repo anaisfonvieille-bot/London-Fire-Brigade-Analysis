@@ -2,7 +2,13 @@
 
 🇬🇧 **English** | [🇫🇷 Français](README_FR.md)
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-Data%20Preparation-150458?logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Power%20Query-Data%20Transformation-217346">
+  <img src="https://img.shields.io/badge/Data-Visualization-E34F26">
+</p>
 
 ### 📌 Project Overview
 

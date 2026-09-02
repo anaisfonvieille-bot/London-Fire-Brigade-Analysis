@@ -1,6 +1,8 @@
 # 🚒 London Fire Brigade — Data Analysis
 
-## 🇬🇧 English Version
+🇬🇧 **English** | [🇫🇷 Français](README_FR.md)
+
+[← Back to main page](README.md)
 
 ### 📌 Project Overview
 

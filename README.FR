@@ -1,4 +1,6 @@
-## 🇫🇷 Version française
+[🇬🇧 English](README_EN.md) | 🇫🇷 **Français**
+
+[← Retour à l'accueil](README.md)
 
 ### 📌 Présentation du projet
 
